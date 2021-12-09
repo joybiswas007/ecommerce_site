@@ -1,2 +1,2 @@
 # ecommerce_site
- E-commerce site i made with html &amp; css for my college project.
+ E-commerce site i made with HTML & CSS for my college project.
